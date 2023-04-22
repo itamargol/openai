@@ -11,5 +11,4 @@ Welcome to my collection of tips and tricks for working with OpenAI's API! Wheth
 
 Craft & send automatic cold mails to prospects - [Click here](https://github.com/itamargol/openai/blob/main/cold_mailer.py)
 
-☕️[Buy me a coffee & 
-Stay up-to-date with AI](https://www.patreon.com/ItamarGolan)
+☕️ [Buy me a Coffee & Stay up-to-date with AI](https://www.patreon.com/ItamarGolan) 🤖
