@@ -7,7 +7,7 @@ Welcome to my collection of tips and tricks for working with OpenAI's API! Wheth
 
 Send over 100+ API requests per second - [Click here](https://github.com/itamargol/openai/blob/main/async_openai_requests.py)
 
-### **1. Trick 2:** ColdMailer
+### **2. Trick 2:** ColdMailer
 
 Craft & send automatic cold mails to prospects - [Click here](https://github.com/itamargol/openai/blob/main/cold_mailer.py)
 
