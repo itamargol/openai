@@ -1,6 +1,8 @@
 # OpenAI API Tips and Tricks
 [![Twitter Follow](https://img.shields.io/twitter/follow/itamargolan?style=social)](https://twitter.com/ItakGol)
 [![GitHub Repo stars](https://img.shields.io/github/stars/itamargol/openai?style=social)](https://github.com/itamargol/openai/stargazers)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-g1/)
+
 
 Welcome to my collection of tips and tricks for working with OpenAI's API! Whether you're just getting started with AI-powered text generation or you're a seasoned pro, I hope you'll find something useful here.
 
