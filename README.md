@@ -5,7 +5,7 @@ Welcome to my collection of tips and tricks for working with OpenAI's API! Wheth
 ## WIP
 ### **1. Trick 1:** Asynchronous Requests with asyncio
 
-[Click here](https://github.com/itamargol/openai/blob/main/async_openai_requests.py)
+Send over 100+ API requests per second[Click here](https://github.com/itamargol/openai/blob/main/async_openai_requests.py)
 
 ### **1. Trick 2:** ColdMailer
 
