@@ -17,7 +17,7 @@ Welcome to my collection of tips and tricks for working with OpenAI's API! Wheth
 
 ```Craft & send automatic cold mails to prospects``` - [Click here](https://github.com/itamargol/openai/blob/main/cold_mailer.py)
 
-### **3. Trick 3:** GPT4-Compression
+### **3. Trick 3:** GPT4-Compressor
 
 ```Compress text using GPT-4``` - [Click here](https://github.com/itamargol/openai/blob/main/gpt4_compression.md)
 
