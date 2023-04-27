@@ -17,6 +17,11 @@ Send over 100+ API requests per second - [Click here](https://github.com/itamarg
 
 Craft & send automatic cold mails to prospects - [Click here](https://github.com/itamargol/openai/blob/main/cold_mailer.py)
 
+### **3. Trick 3:** GPT4-Compression
+
+Compress text using GPT-4 - [Click here](https://github.com/itamargol/openai/blob/main/gpt4_compression.md)
+
+
 <hr/>
 
 ## 💖 Support us 💖 
