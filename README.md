@@ -21,6 +21,9 @@ Welcome to my collection of tips and tricks for working with OpenAI's API! Wheth
 
 ```Compress text using GPT-4``` - [Click here](https://github.com/itamargol/openai/blob/main/gpt4_compression.md)
 
+### **4. Trick 4:** Find-Walso
+
+```Find any object in an image with Natural Language using GPT-4 and Meta's SAM``` - [Click here](https://github.com/itamargol/openai/blob/main/gpt4_compression.md)
 
 <hr/>
 
