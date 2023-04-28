@@ -23,7 +23,7 @@ Welcome to my collection of tips and tricks for working with OpenAI's API! Wheth
 
 ### **4. Trick 4:** Find-Walso
 
-```Find any object in an image with Natural Language using GPT-4 and Meta's SAM``` - [Click here](https://github.com/itamargol/openai/blob/main/gpt4_compression.md)
+```Find Objects ({Waldo}) in images using natural language with GPT-4 and Meta's SAM``` - [Click here](https://github.com/itamargol/openai/blob/main/find_waldo.py)
 
 <hr/>
 
