@@ -1,10 +1,21 @@
-# OpenAI API Tips and Tricks
+# OpenAI API Tips and Tricks [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/itamargolan?style=social)](https://twitter.com/ItakGol)
 [![GitHub Repo stars](https://img.shields.io/github/stars/itamargol/openai?style=social)](https://github.com/itamargol/openai/stargazers)
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-g1/)
 
+---
 
-Welcome to my collection of tips and tricks for working with OpenAI's API! Whether you're just getting started with AI-powered text generation or you're a seasoned pro, I hope you'll find something useful here.
+<div align="center">
+    <img width="150" alt="LLM Tricks Logo" src="https://github.com/itamargol/openai/blob/main/logo.png" />
+    <br />
+    <i>THE GPT/LLMs Playground</i>
+    <br />
+    <br />
+    <i>A Collection of Awesome GPT/LLM Tricks</i>
+    <br />
+</div>
+
+---
 
 <hr/>
 
