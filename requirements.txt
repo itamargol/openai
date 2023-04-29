@@ -1,0 +1,5 @@
+python-dotenv
+opeanai
+asyncio
+langchain
+streamlit
