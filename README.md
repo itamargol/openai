@@ -29,7 +29,7 @@ Welcome to my collection of tips and tricks for working with OpenAI's API! Wheth
 
 ## 💖 Support us 💖 
 
-☕️ If you would like to buy me a coffee, support my research, finance my OpenAI API costs or just stay up-to-date with AI... - [Click here](https://www.patreon.com/ItamarGolan) 🤖
+☕️ If you would like to buy me a coffee, support my research, finance my OpenAI API costs or just stay up-to-date with AI... - [Click here](https://github.com/itamargol/openai) 🤖
 
 <hr/>
 
