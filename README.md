@@ -40,7 +40,13 @@
 
 ## 💖 Support us 💖 
 
-☕️ If you would like to buy me a coffee, support my research, finance my OpenAI API costs or just stay up-to-date with AI... - [Click here](https://github.com/sponsors/itamargol) 🤖
+☕️ If you would like to ☕️
+1. Buy me a coffee
+2. Support my research
+3. Finance my OpenAI, Pinecone, AWS, etc. costs
+4. Stay up-to-date with AI
+
+🤖 [Click here](https://github.com/sponsors/itamargol) 🤖
 
 <hr/>
 
