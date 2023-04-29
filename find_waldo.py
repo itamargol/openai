@@ -22,7 +22,7 @@ waldo = pathlib.Path(__file__).parent / "waldo.jpeg"
 agent = initialize_agent(tools, llm, memory=memory, agent="conversational-react-description", verbose=True) 
 
 # Prompt the user to find Waldo in the image and provide a description of his appearance
-output = agent.run(input("Please find Waldo in this image: (" + str(waldo) + ") "
+output = agent.run(input=(f"Please find Waldo in this image: {waldo}. "
                          "Waldo is a man with glasses wearing a sweater with red and white stripes."))
 
 # Print the agent's response
