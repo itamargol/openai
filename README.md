@@ -1,4 +1,4 @@
-# OpenAI API Tips and Tricks [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+#  A Collection of Awesome GPT/LLM Tricks [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/itamargolan?style=social)](https://twitter.com/ItakGol)
 [![GitHub Repo stars](https://img.shields.io/github/stars/itamargol/openai?style=social)](https://github.com/itamargol/openai/stargazers)
