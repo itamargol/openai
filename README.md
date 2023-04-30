@@ -44,7 +44,7 @@
 1. Buy me a coffee
 2. Support my research
 3. Finance my OpenAI, Pinecone, AWS, etc. costs
-4. Stay up-to-date with AI
+4. Stay up-to-date with AI - [My Newsletter](https://www.patreon.com/ItamarGolan)
 
 🤖 [Click here](https://github.com/sponsors/itamargol) 🤖
 
