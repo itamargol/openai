@@ -36,6 +36,10 @@
 
 ```Find Objects ({Waldo}) in images using natural language with GPT-4 and Meta's SAM``` - [Click here](https://github.com/itamargol/openai/blob/main/find_waldo.py)
 
+### **5. Run an Local LLM
+
+```Run on your own laptop an local LLM (RedPajama-based)``` - [Click here](https://github.com/itamargol/openai/blob/main/run_local_llm.md)
+
 <hr/>
 
 ## 💖 Support us 💖 
