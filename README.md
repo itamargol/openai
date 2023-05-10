@@ -20,23 +20,23 @@
 <hr/>
 
 ## 🔴 Tricks - WIP 🔴
-### **1. Trick 1:** Asynchronous Requests with asyncio
+### 1. Trick 1: Asynchronous Requests with asyncio
 
 ```Send over 100+ API requests per second``` - [Click here](https://github.com/itamargol/openai/blob/main/async_openai_requests.py)
 
-### **2. Trick 2:** ColdMailer
+### 2. Trick 2: ColdMailer
 
 ```Craft & send automatic cold mails to prospects``` - [Click here](https://github.com/itamargol/openai/blob/main/cold_mailer.py)
 
-### **3. Trick 3:** GPT4-Compressor
+### 3. Trick 3: GPT4-Compressor
 
 ```Compress text using GPT-4``` - [Click here](https://github.com/itamargol/openai/blob/main/gpt4_compression.md)
 
-### **4. Trick 4:** Find-Waldo
+### 4. Trick 4: Find-Waldo
 
 ```Find Objects ({Waldo}) in images using natural language with GPT-4 and Meta's SAM``` - [Click here](https://github.com/itamargol/openai/blob/main/find_waldo.py)
 
-### **5. Run an Local LLM
+### 5. Trick 5: Run an Local LLM
 
 ```Run on your own laptop an local LLM (RedPajama-based)``` - [Click here](https://github.com/itamargol/openai/blob/main/run_local_llm.md)
 
