@@ -40,6 +40,11 @@
 
 ```Run on your own laptop an local LLM (RedPajama-based)``` - [Click here](https://github.com/itamargol/openai/blob/main/run_local_llm.md)
 
+
+### 6. Trick 6: Function Calling Capability
+
+```Use OpenAI API's function calling capability``` - [Click here](https://github.com/itamargol/openai/blob/main/function_calling.py)
+
 <hr/>
 
 ## 💖 Support us 💖 
